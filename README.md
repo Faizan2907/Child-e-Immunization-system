@@ -2,5 +2,5 @@
   
   - Standalone Application using java.
   - A Program which changes manual method of managing Anganvadi records through digital method.
-  - Main focus was to keep the vaccination records up-to-date so that child should not miss any of the vaccine.
+  - The primary goal was to maintain the child's vaccination records up to date so they wouldn't miss any.
   - Tech used : Java, Mysql.
