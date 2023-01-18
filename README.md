@@ -25,7 +25,7 @@ JAVA and MySQL based application :
 # 6 After clicking on the view child details : #
 <img width="50%" hight = "50%" src="https://user-images.githubusercontent.com/67515374/213101217-cbbc742a-fc66-437a-a475-11baaa0b235e.png">
 
-# 6 After clicking on the edit child details : #
+# 7 After clicking on the edit child details : #
 <img width="50%" hight = "50%" src="https://user-images.githubusercontent.com/67515374/213101261-f18ce990-1198-4d07-8e61-293eced93e2b.png">
 
 
